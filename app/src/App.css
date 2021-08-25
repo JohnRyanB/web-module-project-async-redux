@@ -1,0 +1,33 @@
+.App {
+	text-align: center;
+}
+
+.AppH1 {
+	text-align: center;
+}
+
+.Cardname {
+	font-style: oblique;
+}
+
+.CardContainer {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 10px;
+}
+
+.CardHeading {
+	display: flex;
+	justify-content: space-evenly;
+	width: 100%;
+}
+
+.TypeLine {
+	font-style: italic;
+}
+
+.OracleText {
+	width: 60%;
+}
